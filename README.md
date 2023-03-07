@@ -1,2 +1,0 @@
-# emmasi
-personal website
